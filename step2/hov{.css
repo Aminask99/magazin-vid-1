@@ -1,0 +1,156 @@
+li{
+    font-size :20px;
+    list-style: none;
+    display: flex;
+    display: block;
+    display: inline-block;
+   
+   }
+   a {
+    color: rgb(8, 8, 8);
+text-decoration: none;
+    padding:0 10px;
+   text-align: justify;
+   display: flex;
+
+}
+a:hover{
+    text-decoration:underline;
+}
+.breadcrumb{
+    font-size :20px;
+    list-style: none;
+    display: flex;
+   }
+   a {
+    color: rgb(8, 8, 8);
+text-decoration: none;
+    padding:0 10px;
+   text-align: justify;
+   display: flex;
+
+}
+a:hover{
+    text-decoration:underline;
+}
+h1{
+    color: black;
+    font-size: larger;
+    font-size :30px;
+    font-weight: bolder;
+    
+}
+p{
+    color: black;
+    font-size :20px;
+
+}
+*{
+    margin: 0;
+    padding:0px;
+    box-sizing: border-box;
+}
+.pectr {
+    border: 2px solid black ;
+    width: 200px;
+    padding:10px;
+    display: flex;
+    display: inline-block;
+   box-sizing: border-box;
+}
+.pectr img {
+    width: 100%;
+}
+.pectr p {
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.RRP  {
+     color: #9d9d9d;
+}
+span {
+font-size:smaller, larger;
+text-decoration: underline;
+}
+.your {
+    color: #3d8027;
+}
+.pec2 {
+    border: 2px solid black ;
+    width: 200px;
+    padding:10px;
+    display: flex;
+    display: inline-block;
+   box-sizing: border-box;
+}
+.pec2 img {
+    width: 100%;
+}
+.pec2 p {
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.RR  {
+     color: #9d9d9d;
+}
+span {
+font-size:smaller, larger;
+text-decoration: underline;
+}
+.you {
+    color: #3d8027;
+}
+.pectr {
+    border: 2px solid black ;
+    width: 200px;
+    padding:10px;
+    display: flex;
+    display: inline-block;
+   box-sizing: border-box;
+}
+.pectr img {
+    width: 100%;
+}
+.pectr p {
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.RRP  {
+     color: #9d9d9d;
+}
+span {
+font-size:smaller, larger;
+text-decoration: underline;
+}
+.your {
+    color: #3d8027;
+}
+.pectr {
+    border: 2px solid black ;
+    width: 200px;
+    padding:10px;
+    display: flex;
+    display: inline-block;
+   box-sizing: border-box;
+}
+.pectr img {
+    width: 100%;
+}
+.pectr p {
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.RRP  {
+     color: #9d9d9d;
+}
+span {
+font-size:smaller, larger;
+text-decoration: underline;
+}
+.your {
+    color: #3d8027;
+}

@@ -1,0 +1,19 @@
+li{
+    font-size :20px;
+    list-style: none;
+    display: flex;
+    display: block;
+    display: inline-block;
+   
+   }
+   a {
+    color: rgb(8, 8, 8);
+text-decoration: none;
+    padding:0 10px;
+   text-align: justify;
+   display: flex;
+
+}
+a:hover{
+    text-decoration:underline;
+}

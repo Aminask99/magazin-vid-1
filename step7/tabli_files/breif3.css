@@ -1,0 +1,185 @@
+@media only screen and (max-width: 360px) {
+    body {
+      background-color: rgb(30, 134, 194);
+    }
+  }
+body{
+    background-image: linear-gradient(to right ,rgb(114, 81, 81),rgb(221, 182, 182));
+}
+img {
+    width: 99%;
+    height: 100px;
+    align-items: center;
+
+}
+header {
+    background-image: linear-gradient(to right ,black,gray);
+
+    display: flex;
+    align-items: center;
+}
+li{
+    font-size :14px;
+    list-style: none;
+    display: inline-block;   
+}
+.hov li a{
+      color: rgb(241, 232, 232);
+}
+a {
+  
+    text-decoration: none;
+    padding:0 10px;
+
+}
+
+.navigation{
+    margin-top: 20px;
+}
+a:hover{
+    text-decoration:underline;
+}
+.breadcrumb{
+    font-size :20px;
+    list-style: none;
+    display: flex;
+    margin-top: 6px;
+   
+   }
+a:hover{
+    text-decoration:underline;
+}
+h1{
+    color: black;
+    font-size: larger;
+    font-size :15px;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+p{
+    color: black;
+    font-size :15px;
+
+}
+*{
+    margin: 0;
+    padding:0px;
+    box-sizing: border-box;
+   
+}
+.pectr {
+    border: 1px solid black ;
+    width: 100%;
+    padding:10px;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-left: 80px;
+    display:flex;
+   
+}
+.pectr img {
+    width: 100%;
+}
+.pectr p {
+    margin-top: 10px;
+    font-size: x-small;
+    font-weight: bold;
+}
+.RRP  {
+     color: #9d9d9d;
+}
+span {
+font-size:smaller, larger;
+text-decoration: underline;
+}
+.your {
+    color: #3d8027;
+}
+.pec2 {
+    border: 2px solid black ;
+    width: 200px;
+    padding:10px;
+    display:flex;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.pec2 img {
+    width: 100%;
+}
+.pec2 p {
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.RR  {
+     color: #9d9d9d;
+}
+span {
+font-size:smaller, larger;
+text-decoration: underline;
+}
+.you {
+    color: #3d8027;
+}
+.pectr {
+    border: 2px solid black ;
+    width: 200px;
+    padding:10px;
+    display:flex;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.pectr img {
+    width: 100%;
+}
+.pectr p {
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.RRP  {
+     color: #9d9d9d;
+}
+span {
+font-size:smaller, larger;
+text-decoration: underline;
+}
+.your {
+    color: #3d8027;
+}
+.pectr {
+    border: 2px solid black ;
+    width: 200px;
+    padding:10px;
+    display:flex;
+    display: inline-block;
+    box-sizing: border-box;
+    max-width:200px ;
+}
+.pectr img {
+    width: 100%;
+}
+.pectr p {
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+.RRP  {
+     color: #9d9d9d;
+}
+span {
+font-size:smaller, larger;
+text-decoration: underline;
+}
+.your {
+    color: #3d8027;
+}
+.tabl{
+    gap:10px;
+    flex-direction: column;
+}
